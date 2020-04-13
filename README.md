@@ -1,0 +1,1 @@
+# jenkins jnlp节点
